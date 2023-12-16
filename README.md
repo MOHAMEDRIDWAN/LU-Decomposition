@@ -48,6 +48,11 @@ print(x)
 ![Screenshot (57)](https://github.com/MOHAMEDRIDWAN/LU-Decomposition/assets/146993368/e20c8b01-ceb4-4260-98d1-f8bc8cbc1a3f)
 
 
+
+
+
+
+
 ![Screenshot (59)](https://github.com/MOHAMEDRIDWAN/LU-Decomposition/assets/146993368/b2244da9-25bd-4dfa-99db-2985d77a7035)
 
 
