@@ -45,11 +45,7 @@ print(x)
 ```
 
 ## Output:
-![Screenshot (57)](https://github.com/MOHAMEDRIDWAN/LU-Decomposition/assets/146993368/e20c8b01-ceb4-4260-98d1-f8bc8cbc1a3f) ![Screenshot (59)](https://github.com/MOHAMEDRIDWAN/LU-Decomposition/assets/146993368/3d415f69-05ce-4e12-8432-aa00b34e5633)
-
-
-
-
+<img width="518" alt="image" src="https://github.com/MOHAMEDRIDWAN/LU-Decomposition/assets/146993368/0776e590-79b1-4a77-b559-880d06da4a7f">
 
 
 ## Result:
